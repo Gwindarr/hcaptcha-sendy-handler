@@ -15,8 +15,7 @@ This system consists of two main components:
 - **Honeypot Protection**: Additional anti-spam measures with honeypot fields
 - **IP Detection**: Handles various proxy configurations (Cloudflare, Nginx, etc.)
 - **Sendy Integration**: Direct API calls to Sendy for email list management
-- **Safe Redirects**: Whitelist-based redirect validation
-- **Error Handling**: Graceful error handling with user-friendly messages
+- **Error Handling**: Basic error handling
 
 ## Configuration Required
 
